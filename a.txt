@@ -6,3 +6,4 @@
 66666666
 select * from book;
 master77777777
+delete from book where id=1;
