@@ -5,3 +5,4 @@
 55555555
 66666666
 select * from book;
+delete from book where id=1;
