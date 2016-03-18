@@ -8,3 +8,4 @@ select * from book;
 master77777777
 delete from book where id=1;
 github update 01
+local new object
